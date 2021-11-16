@@ -1,11 +1,24 @@
 .checkout{
+    background-color: bisque;
     display: flex;
-    background-color: white;
-    height:max-content ;
+    height: max-content;
     padding: 20px;
 }
 
+.checkout__left{
+    background-color: white;
+}
+
+.checkout__adv{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
 .checkout__title{
-    border-bottom: 1px solid black;
     padding: 10px;
+    border-bottom: 1px solid black;
+}
+
+.checkout__right{
+    background-color: aqua;
 }
