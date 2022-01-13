@@ -21,7 +21,7 @@ function Home() {
                         title="Apple iPhone 11 (64GB) - Purple
                         Size name:64GB
                         Colour:Purple"
-                        price={"free"}
+                        price={1500}
                         image="https://m.media-amazon.com/images/I/71tpxtLD0aL._SL1500_.jpg"
                     />
                     <Product
@@ -42,7 +42,8 @@ function Home() {
                      price={4450}
                      image="https://m.media-amazon.com/images/I/71X7iKyaS6L._SL1500_.jpg"
                      />
-                    <Product />
+                    <Product 
+                    />
                 </div>
 
                 <div className="home__row">
